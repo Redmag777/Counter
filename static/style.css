@@ -1,0 +1,17 @@
+h1, p {
+    text-align: center;
+}
+div {
+    display: flex;
+    justify-content: space-evenly;
+}
+.button1 {
+    background-color: rgb(234, 255, 0);
+    height: 30px;
+    width: 90px;
+}
+.button2 {
+    background-color: azure;
+    height: 30px;
+    width: 90px;
+}
